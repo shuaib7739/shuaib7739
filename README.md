@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I am Shuaib 👋
 
-<!--
-**shuaib7739/shuaib7739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a data science student at KCA university
+- 🔭 I’m currently working on data science projects
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on data analysis projects
+- 🤔 I’m looking for help with ML and AI
+- 📫 How to reach me: shucebc1@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A super F1 fun
+-----------------------------------------------------------
+## TECH STACK
+HTML, 
+CSS, 
+JAVASCRIPT, 
+PYTHON, 
+SQL.
